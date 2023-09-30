@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "idiot:item/mana_crystal_fragment"
+  }
+}

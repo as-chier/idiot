@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "idiot:item/vizor_kamen"
+  }
+}
